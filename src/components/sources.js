@@ -130,7 +130,7 @@ export default function TabsComponent() {
                                 {/* Logodesign */}
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/musicfullcase.2f0a851242ee2dcf1be6.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/musicfullcase.2f0a851242ee2dcf1be6.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={Musiccase}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
