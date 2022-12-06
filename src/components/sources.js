@@ -130,7 +130,7 @@ export default function TabsComponent() {
                                 {/* Logodesign */}
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="portfolio/static/media/musicfullcase.2f0a851242ee2dcf1be6.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/musicfullcase.2f0a851242ee2dcf1be6.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={Musiccase}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -140,7 +140,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/next-task.241f28869d8c0bfac927.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/next-task.241f28869d8c0bfac927.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={NextTaskcase}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -150,7 +150,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/NFT-full.0387fcbfd8da8740f63a.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/NFT-full.0387fcbfd8da8740f63a.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={NFT}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -160,7 +160,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/marketing.21ae609cf959bab995df.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/marketing.21ae609cf959bab995df.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={BusinessGrowth}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -170,7 +170,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/healthyFull.e6969f47055f790da319.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/healthyFull.e6969f47055f790da319.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={Healthy}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -180,7 +180,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/elearning.65eaa5cc913daf2ae61a.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/elearning.65eaa5cc913daf2ae61a.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={eLearning}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -190,7 +190,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/bankingFull.eab626d7e39f824e25d7.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/bankingFull.eab626d7e39f824e25d7.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={Banking}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -200,7 +200,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/foodorderingFull.a6635a99b08769af1eb1.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/foodorderingFull.a6635a99b08769af1eb1.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={Foodordering}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -210,7 +210,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/searchnscore.b3e301eab690980476fc.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/searchnscore.b3e301eab690980476fc.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={searchnscore}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -220,7 +220,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/movierateFull.1fe76b2049bceb20e731.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/movierateFull.1fe76b2049bceb20e731.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={movierate}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -230,7 +230,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/centerforpedsendo.b0a4de7679c7984c0688.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/centerforpedsendo.b0a4de7679c7984c0688.png" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={pedsEndo}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -240,7 +240,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/hiTech.02c323f940deef20a295.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/hiTech.02c323f940deef20a295.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={hightech}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
@@ -250,7 +250,7 @@ export default function TabsComponent() {
                                 </div>
                                 <div class="p-1">
                                     <div class="group relative block overflow-hidden rounded-md transition-all duration-500">
-                                         <a href="/static/media/huminn.888ef2ed87a126ec9b06.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
+                                         <a href="/portfolio/static/media/huminn.888ef2ed87a126ec9b06.jpg" target="_blank" class="lightbox transition-all duration-500 group-hover:scale-105 tobii-zoom" title="">
                                             <img className="hover:scale-95 ease-in duration-500" src={humin}/>
                                          </a>
                                         <div class="absolute -bottom-52 group-hover:bottom-2 right-2 left-2 transition-all duration-500 bg-white dark:bg-gradient-to-r from-pink-600 to-red-600 p-4 rounded shadow dark:shadow-gray-700">
