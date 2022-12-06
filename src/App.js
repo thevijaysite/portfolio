@@ -11,6 +11,7 @@ const App = () => (
     <Header/>
     <Hero/>
     <Sources/>
+    <Uxuidesigns/>
   
 
   </div>
