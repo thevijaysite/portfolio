@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.698af702.css",
-    "main.js": "/portfolio/static/js/main.22091aa8.js",
+    "main.js": "/portfolio/static/js/main.41372923.js",
     "static/media/person-chir.svg": "/portfolio/static/media/person-chir.eea0090b8f789fda04ef23231fc75aae.svg",
     "static/media/musicfullcase.png": "/portfolio/static/media/musicfullcase.2f0a851242ee2dcf1be6.png",
     "static/media/monitor-speaker.svg": "/portfolio/static/media/monitor-speaker.b99b25d82943cd6dcc679ff7a03427b6.svg",
@@ -10,6 +10,7 @@
     "static/media/centerforpedsendo.png": "/portfolio/static/media/centerforpedsendo.b0a4de7679c7984c0688.png",
     "static/media/huminn.jpg": "/portfolio/static/media/huminn.888ef2ed87a126ec9b06.jpg",
     "static/media/hiTech.jpg": "/portfolio/static/media/hiTech.02c323f940deef20a295.jpg",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.c8c12db37517ac388e66.pdf",
     "static/media/movierateFull.jpg": "/portfolio/static/media/movierateFull.1fe76b2049bceb20e731.jpg",
     "static/media/4.jpg": "/portfolio/static/media/4.2d2a940a54fed6617018.jpg",
     "static/media/marketing.png": "/portfolio/static/media/marketing.21ae609cf959bab995df.png",
@@ -42,7 +43,6 @@
     "static/media/jadayu.jpg": "/portfolio/static/media/jadayu.fa254faee1e1d981458d.jpg",
     "static/media/across.jpg": "/portfolio/static/media/across.bc4f0485d0998e590f40.jpg",
     "static/media/natural.jpg": "/portfolio/static/media/natural.627f00b028831dd90e4b.jpg",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.2399d51d38cb054b2f24.pdf",
     "static/media/movie.jpg": "/portfolio/static/media/movie.6655a76b1a328e11da66.jpg",
     "static/media/health.jpg": "/portfolio/static/media/health.d1835ab549cf36d9f40f.jpg",
     "static/media/spm.jpg": "/portfolio/static/media/spm.08e84bd96ad1429477b4.jpg",
@@ -98,10 +98,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/LinkedIn.svg": "/portfolio/static/media/LinkedIn.8577a7517b2862987b3f655a485a4915.svg",
     "main.698af702.css.map": "/portfolio/static/css/main.698af702.css.map",
-    "main.22091aa8.js.map": "/portfolio/static/js/main.22091aa8.js.map"
+    "main.41372923.js.map": "/portfolio/static/js/main.41372923.js.map"
   },
   "entrypoints": [
     "static/css/main.698af702.css",
-    "static/js/main.22091aa8.js"
+    "static/js/main.41372923.js"
   ]
 }
